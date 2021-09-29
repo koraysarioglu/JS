@@ -1,0 +1,18 @@
+body {
+    background: gray;
+    color: orange;
+    font-size: 50px;
+    line-height: 30px;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+input{
+    font-size:  50px;;
+    background: gray;
+    color: orange;
+    text-align: center;
+    border: 5px
+}
+
